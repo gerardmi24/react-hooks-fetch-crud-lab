@@ -6,7 +6,8 @@
     "json-server": "^0.16.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-scripts": "4.0.1"
+    "react-scripts": "4.0.1",
+    "start": "^5.1.0"
   },
   "devDependencies": {
     "@ihollander/jest-learn-reporter": "^1.0.1",
